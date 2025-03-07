@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "CorC++"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"TEST.C": "cpp"
+		}
+	}
+}

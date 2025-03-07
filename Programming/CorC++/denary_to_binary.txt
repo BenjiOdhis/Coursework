@@ -1,0 +1,2 @@
+Denary Number	Binary Representation
+5	101

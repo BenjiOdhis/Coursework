@@ -1,0 +1,12 @@
+Entered string: benjamin
+Square root of 9 is 3.00
+String in uppercase: BENJAMIN
+String length: 8
+Entered string: grace
+Square root of 16 is 4.00
+String in uppercase: GRACE
+String length: 5
+Entered string: eliud
+Square root of 7 is 2.65
+String in uppercase: ELIUD
+String length: 5

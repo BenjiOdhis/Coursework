@@ -1,0 +1,14 @@
+BENJAMIN NEHEMIAH
+English	Kiswahili	Mathematics
+	80	90	70
+
+	PASS
+	Grade A
+BENJAMIN NEHEMIAH scored a total of 240 marks out of the possible 300 marks earning an average of 80.00
+JAMES MWAURA
+English	Kiswahili	Mathematics
+	75	80	100
+
+	PASS
+	Grade A
+JAMES MWAURA scored a total of 255 marks out of the possible 300 marks earning an average of 85.00
